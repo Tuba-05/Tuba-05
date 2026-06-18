@@ -26,21 +26,21 @@ I am a **Computer Information Systems Engineering Student** at NED University an
 ### 🌟 Featured Projects
 
 * 🤝 **[JobMate](https://github.com/Tuba-05/-JOBMATE):** Job boarding platform built with Django & React, featuring role-based access control (RBAC) and complex PostgreSQL models.
-* 📈 **[Investify](https://github.com/Tuba-05/Investify-App):** Stock Market web app utilizing Flask REST APIs for authentication, custom relational schemas, and strict error handling[cite: 1].
-* ☁️ **[Air Quality Monitoring System](https://github.com/Tuba05/CEW_OEL):** C-based real-time analysis program integrated with OpenWeatherMap API, featuring custom JSON parsing and anomaly detection[cite: 1].
-* 🛡️ **[Smart Contract Vulnerability Detection](https://github.com/Tuba-05/Solidity-Vulnerability-Detection):** End-to-end Machine Learning pipeline using CodeBERT and RoBERTa to detect vulnerabilities in Solidity code[cite: 1].
+* 📈 **[Investify](https://github.com/Tuba-05/Investify-App):** Stock Market web app utilizing Flask REST APIs for authentication, custom relational schemas, and strict error handling.
+* ☁️ **[Air Quality Monitoring System](https://github.com/Tuba05/CEW_OEL):** C-based real-time analysis program integrated with OpenWeatherMap API, featuring custom JSON parsing and anomaly detection.
+* 🛡️ **[Smart Contract Vulnerability Detection](https://github.com/Tuba-05/Solidity-Vulnerability-Detection):** End-to-end Machine Learning pipeline using CodeBERT and RoBERTa to detect vulnerabilities in Solidity code.
 
 ---
 
 ### 📈 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuba-05&show_icons=true&theme=radial&hide_border=true" alt="Tuba's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuba-05&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tuba-05&show_icons=true&theme=dark&hide_border=false" alt="Tuba's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuba-05&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/tuba-naushad-6a4552253)[cite: 1]
-- 📧 [Email](mailto:tubabintenaushad@gmail.com)[cite: 1]
+- 💼 [LinkedIn](https://linkedin.com/in/tuba-naushad-6a4552253)
+- 📧 [Email](mailto:tubabintenaushad@gmail.com)
