@@ -39,13 +39,6 @@ I am a **Computer Information Systems Engineering Student** at NED University an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuba-05&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
-### 📈 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuba-05&show_icons=true&theme=dark&hide_border=false&count_private=true&hide=stars,issues,prs,contrib" alt="Tuba's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuba-05&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
