@@ -25,9 +25,9 @@ I am a **Computer Information Systems Engineering Student** at NED University an
 
 ### 🌟 Featured Projects
 
-* 🤝 **[JobMate](https://github.com/Tuba-05/-JOBMATE):** Job boarding platform built with Django & React, featuring role-based access control (RBAC) and complex PostgreSQL models.
+* 🤝 **[JobMate](https://github.com/Tuba-05/-JOBMATE.):** Job boarding platform built with Django & React, featuring role-based access control (RBAC) and complex PostgreSQL models.
 * 📈 **[Investify](https://github.com/Tuba-05/Investify-App):** Stock Market web app utilizing Flask REST APIs for authentication, custom relational schemas, and strict error handling.
-* ☁️ **[Air Quality Monitoring System](https://github.com/Tuba05/CEW_OEL):** C-based real-time analysis program integrated with OpenWeatherMap API, featuring custom JSON parsing and anomaly detection.
+* ☁️ **[Air Quality Monitoring System](https://github.com/Tuba-05/CEW_OEL):** C-based real-time analysis program integrated with OpenWeatherMap API, featuring custom JSON parsing and anomaly detection.
 * 🛡️ **[Smart Contract Vulnerability Detection](https://github.com/Tuba-05/Solidity-Vulnerability-Detection):** End-to-end Machine Learning pipeline using CodeBERT and RoBERTa to detect vulnerabilities in Solidity code.
 
 ---
