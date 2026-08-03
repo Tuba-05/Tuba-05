@@ -126,7 +126,4 @@ I am a **Computer Information Systems Engineering Student** at NED University an
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuba-05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
