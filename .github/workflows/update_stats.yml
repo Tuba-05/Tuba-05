@@ -19,7 +19,7 @@ jobs:
           card: stats
           options: username=Tuba-05&show_icons=true&theme=tokyonight&hide_border=true
           path: stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }} # Yahan PAT_TOKEN kar diya hai
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -27,7 +27,7 @@ jobs:
           card: top-langs
           options: username=Tuba-05&layout=compact&theme=tokyonight&hide_border=true
           path: top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }} # Yahan bhi PAT_TOKEN kar diya hai
 
       - name: Commit and push changes
         run: |
