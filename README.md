@@ -102,10 +102,11 @@ I am a **Computer Information Systems Engineering Student** at NED University an
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuba-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tuba's GitHub Stats" width="48%" />
+  <img src="./stats.svg" alt="Tuba's GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuba-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="./top-langs.svg" alt="Top Languages" width="48%" />
 </p>
+
 
 ---
 
