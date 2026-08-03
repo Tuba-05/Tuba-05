@@ -28,14 +28,15 @@ I am a **Computer Information Systems Engineering Student** at NED University an
 * 🤝 **[JobMate](https://github.com/Tuba-05/-JOBMATE.):** Job boarding platform built with Django & React, featuring role-based access control (RBAC) and complex PostgreSQL models.
 * 📈 **[Investify](https://github.com/Tuba-05/Investify-App):** Stock Market web app utilizing Flask REST APIs for authentication, custom relational schemas, and strict error handling.
 * ☁️ **[Air Quality Monitoring System](https://github.com/Tuba-05/CEW_OEL):** C-based real-time analysis program integrated with OpenWeatherMap API, featuring custom JSON parsing and anomaly detection.
-* 🛡️ **[Smart Contract Vulnerability Detection](https://github.com/Tuba-05/Solidity-Vulnerability-Detection):** End-to-end Machine Learning pipeline using CodeBERT and RoBERTa to detect vulnerabilities in Solidity code.
+* 🛡️ **[Smart Contract Vulnerability Detection](private):** End-to-end Machine Learning pipeline using CodeBERT and RoBERTa to detect vulnerabilities in Solidity code.
 
 ---
 
 ### 📈 GitHub Statistics
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tuba-05&show_icons=true&theme=dark&hide_border=false" alt="Tuba's GitHub Stats" width="48%" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuba-05&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
