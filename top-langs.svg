@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="68.61"
+          width="68.59"
           height="8"
           fill="#b2b7f8"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="68.61"
+          x="68.59"
           y="0"
-          width="67.78"
+          width="67.77"
           height="8"
           fill="#adb2cb"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="136.39"
+          x="136.36"
           y="0"
-          width="37.94"
+          width="37.93"
           height="8"
           fill="#DA5B0B"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="174.33"
+          x="174.30"
           y="0"
-          width="35.08"
+          width="35.12"
           height="8"
           fill="#f1e05a"
         />
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="209.41"
+          x="209.42"
           y="0"
           width="21.35"
           height="8"
@@ -230,12 +230,12 @@
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Jupyter Notebook 15.18%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Jupyter Notebook 15.17%</text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">JavaScript 14.03%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">JavaScript 14.05%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 1050ms">
